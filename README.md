@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://d1slky1s14skwk.cloudfront.net/t1nwps%2Fpreview%2F63485735%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1735891364&Signature=Rkw16aEyEf2CH68ugjUIAsPFAR3Y2Q-j35D-LpUSJcR~jPrrUFv9n98ATJYTCzQijt~zdUo8knyNWgm2JVLheiYMq87q~U~SLHTF2Ly94mtebL5j~Pr5L-eGjlp-k2p4lBnejYSNyHd2yj9BxjllFewry8oRlDCiT3zfE1QXVXRTacy~UDLbcZ8MHVHwi1~ajEEhF0spFziZClB0az2JjvKfEtypeWvSBcA7ELB-Pcwu3COSjdZcphUs8nMft98Ukx9WjjFEFhY395By8LOfwM77I31CpF83pqN4ko09qbIzI4wwTqEx3brnvxfcYfJMqWk3-5wVzZyWIx~Gf~Fp7w__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/nitesh-ray-51bb85318/">Nitesh Ray</a>👨‍💻</h1>
+<h1 align="center"><br >I'm <a href="https://www.linkedin.com/in/nitesh-ray-51bb85318/">Nitesh Ray</a>👨‍💻</h1>
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
